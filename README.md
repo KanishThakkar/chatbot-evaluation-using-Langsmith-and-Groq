@@ -2,6 +2,8 @@
 
 A practical LLM evaluation project that benchmarks multiple Groq-hosted language models using LangSmith. The project evaluates chatbot responses using custom evaluators for **Correctness** and **Concision**, enabling systematic comparison of model quality and response efficiency.
 
+<img width="1890" height="852" alt="image" src="https://github.com/user-attachments/assets/75eacee5-0960-42ad-8b32-784274ca9605" />
+
 ## Overview
 
 Evaluating LLMs is essential before deploying them in production systems. This project demonstrates how to:
